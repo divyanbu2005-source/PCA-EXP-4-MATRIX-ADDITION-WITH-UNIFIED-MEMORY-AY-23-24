@@ -48,8 +48,7 @@ Allocate Host Memory
 ## PROGRAM:
 
 ```
-Developed By : Sriram Gopalan G
-Register No. : 212222230149
+
 ```
 ```
 !pip install git+https://github.com/andreinechaev/nvcc4jupyter.git
